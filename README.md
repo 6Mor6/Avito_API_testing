@@ -56,8 +56,8 @@
 
 ## 📂 Структура проекта
 avito-api-testing/
-├── tests/
-│   └── test_avito_api.py         
+
+├── tests/ test_avito_api.py         
 ├── requirements.txt              
 ├── .env                          
 ├── README.md                     
